@@ -1,0 +1,55 @@
+body {
+    max-width: 100%;
+    overflow-x: hidden;
+    padding: 0px;
+    margin-left: 0px
+}
+
+.thehead {
+    text-align: center;
+    width: 100vw;
+}
+
+.content {
+    text-align: center;
+}
+
+.menu nav ul {
+    list-style: none;
+    text-align: center;
+}
+
+.menu {
+    text-align: center;
+    width: 100%;
+}
+
+.menu nav ul li {
+    display: inline;
+    text-align: center;
+    padding-right: 10px;
+}
+
+.menu nav ul li a {
+    text-decoration: none;
+}
+
+.thehead {
+    background-color: #6F237E;
+}
+
+.photo {
+    width: 100vw;
+}
+
+.photo img {
+    width: 100%;
+    height: auto;
+}
+
+@media (min-width: 600px) {
+    .photo img {
+      width: auto; 
+      height: auto;
+    }
+  }
