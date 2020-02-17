@@ -13,7 +13,7 @@ body {
 
 .texthead {
     color: #fff;
-    font-family: cursive;
+    font-family: Aclonica;
 }
 
 .content {
@@ -44,7 +44,7 @@ nav {
 .menu nav ul li a {
     text-decoration: none;
     color: #fff;
-    font-family: cursive;
+    font-family: Aclonica;
     border: 1px solid white;
     border-radius: 5px;
     padding-left: 7px;
