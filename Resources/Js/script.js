@@ -3,7 +3,7 @@ function myFunc() {
   
   //variables and data for the alert and ialougue boxes
   let fateEvents = {
-    firstEvent: ["buy a bentley", "get married"],
+    firstEvent: ["buy a bentley", "get married", "start a business", "find love", "build a factory"],
     secondEvent: ["have a bike accident", "build a nice duplex"],
     thirdEvent: ["travel to canada", "get your dream job"],
     adverbOfTime: ["before the end of", "by", "in the month of", "on or before"],
