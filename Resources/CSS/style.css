@@ -13,12 +13,12 @@ body {
 
 .texthead {
     color: #fff;
-    font-family: Aclonica;
+    font-family: Bubblegum Sans;
 }
 
 .content {
     text-align: center;
-    font-family: cursive;
+    font-family: Bubblegum Sans;
 }
 
 nav {
@@ -44,7 +44,7 @@ nav {
 .menu nav ul li a {
     text-decoration: none;
     color: #fff;
-    font-family: Aclonica;
+    font-family: Bubblegum Sans;
     border: 1px solid white;
     border-radius: 5px;
     padding-left: 7px;
