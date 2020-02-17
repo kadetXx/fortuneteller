@@ -2,7 +2,8 @@ body {
     max-width: 100%;
     overflow-x: hidden;
     padding: 0px;
-    margin-left: 0px
+    margin-left: 0px;
+    margin-top: -20px;
 }
 
 .thehead {
@@ -10,8 +11,14 @@ body {
     width: 100vw;
 }
 
+.texthead {
+    color: #fff;
+    font-family: cursive;
+}
+
 .content {
     text-align: center;
+    font-family: cursive;
 }
 
 .menu nav ul {
@@ -32,7 +39,11 @@ body {
 
 .menu nav ul li a {
     text-decoration: none;
+    color: #fff;
+    font-family: cursive;
+    padding-bottom: 10px;
 }
+
 
 .thehead {
     background-color: #6F237E;
